@@ -1,0 +1,1 @@
+E:\Source\Visual Studio 2013\SQLTest\SQLTest\SQLTest.Windows\SQLTest.Windows.csproj;x86

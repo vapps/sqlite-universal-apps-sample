@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="e:\source\visual studio 2013\sqltest\sqltest\sqltest.windows\obj\x86\debug\intermediatexaml\sqltest.windows.exe" HashGuid="bd4e369d-e67c-b913-39a1-7763d196c175" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactions.dll" HashGuid="95a94f94-3917-d473-4f7c-18c4bd437046" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactivity.dll" HashGuid="d25f59e6-dd81-900a-0dfc-55b39f6898ef" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="e:\source\visual studio 2013\sqltest\packages\sqlitepcl.3.8.5.0\lib\netcore451\sqlitepcl.dll" HashGuid="35996a9a-fcd7-5b73-8a62-9053b6d07d55" />
+    <ReferenceAssembly PathName="e:\source\visual studio 2013\sqltest\packages\sqlitepcl.raw_basic.0.3.0-alpha\build\netcore451\cppinterop_sqlite3_dynamic\x86\sqlitepcl.raw.dll" HashGuid="1ac9979f-6a65-51fe-9f69-bab1b4f7d949" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
