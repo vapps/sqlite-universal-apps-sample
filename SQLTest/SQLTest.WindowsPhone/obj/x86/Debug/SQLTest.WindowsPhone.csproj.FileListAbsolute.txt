@@ -54,11 +54,3 @@ E:\Source\Visual Studio 2013\SQLTest\SQLTest\SQLTest.WindowsPhone\obj\x86\Debug\
 E:\Source\Visual Studio 2013\SQLTest\SQLTest\SQLTest.WindowsPhone\bin\x86\Debug\EditPage.xbf
 E:\Source\Visual Studio 2013\SQLTest\SQLTest\SQLTest.WindowsPhone\obj\x86\Debug\EditPage.xaml
 E:\Source\Visual Studio 2013\SQLTest\SQLTest\SQLTest.WindowsPhone\obj\x86\Debug\EditPage.xbf
-E:\Source\Visual Studio 2013\SQLTest\SQLTest\SQLTest.WindowsPhone\obj\x86\Debug\SQLitePCL\layout.resfiles
-E:\Source\Visual Studio 2013\SQLTest\SQLTest\SQLTest.WindowsPhone\obj\x86\Debug\SQLitePCL\layout.resfiles.intermediate
-E:\Source\Visual Studio 2013\SQLTest\SQLTest\SQLTest.WindowsPhone\obj\x86\Debug\SQLitePCL\Resources.resfiles
-E:\Source\Visual Studio 2013\SQLTest\SQLTest\SQLTest.WindowsPhone\obj\x86\Debug\SQLitePCL\Resources.resfiles.intermediate
-E:\Source\Visual Studio 2013\SQLTest\SQLTest\SQLTest.WindowsPhone\obj\x86\Debug\SQLitePCL\pri.resfiles
-E:\Source\Visual Studio 2013\SQLTest\SQLTest\SQLTest.WindowsPhone\obj\x86\Debug\SQLitePCL\pri.resfiles.intermediate
-E:\Source\Visual Studio 2013\SQLTest\SQLTest\SQLTest.WindowsPhone\obj\x86\Debug\SQLitePCL\priconfig.xml
-E:\Source\Visual Studio 2013\SQLTest\SQLTest\SQLTest.WindowsPhone\obj\x86\Debug\SQLitePCL\priconfig.xml.intermediate

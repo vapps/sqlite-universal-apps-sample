@@ -18,6 +18,8 @@
     <Compile Include="$(MSBuildThisFileDirectory)ViewModels\CreateDatabase.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModels\Behaviors.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModels\Customer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\IStorage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\SQLiteStorage.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModels\Storage.cs" />
   </ItemGroup>
 </Project>

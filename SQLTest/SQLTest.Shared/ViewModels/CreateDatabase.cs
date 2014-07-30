@@ -8,7 +8,7 @@ namespace SQLTest
 {
     class CreateDatabase
     {
-        internal static void LoadDatabase(SQLitePCL.SQLiteConnection conn)
+        internal async static Task LoadDatabase(SQLitePCL.SQLiteConnection conn)
         {
             string sql = @"CREATE TABLE IF NOT EXISTS
                                   Customer (Id      INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
@@ -18,7 +18,10 @@ namespace SQLTest
                             );";
             using (var statement = conn.Prepare(sql))
             {
-                statement.Step();
+                await Task.Run(() =>
+                {
+                    statement.Step();
+                });
             }
             //ResetDataAsync(conn);
         }

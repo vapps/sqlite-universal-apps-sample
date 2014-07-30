@@ -52,7 +52,7 @@ namespace SQLTest
 
         private void Refresh()
         {
-            CustomerList.ItemsSource = Storage.GetAllCustomers();
+            //CustomerList.ItemsSource = App.Storage.GetAll();
         }
         
         private void New_Click(object sender, RoutedEventArgs e)

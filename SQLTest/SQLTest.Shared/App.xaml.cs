@@ -27,6 +27,7 @@ namespace SQLTest
     public sealed partial class App : Application
     {
         internal static SQLiteConnection conn;
+        internal static IStorage<Customer> Storage;
 #if WINDOWS_PHONE_APP
         private TransitionCollection transitions;
 #endif
@@ -43,8 +44,7 @@ namespace SQLTest
 
         private void LoadDatabase()
         {
-            conn = new SQLiteConnection("sqlitepcldemo.db");
-            CreateDatabase.LoadDatabase(conn);
+            //Storage = new SQLiteStorage<Customer>();
         }
         /// <summary>
         /// Invoked when the application is launched normally by the end user.  Other entry points
